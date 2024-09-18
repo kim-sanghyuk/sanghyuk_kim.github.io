@@ -18,7 +18,7 @@ published: true
 ***
 
 # Education
-### Doctor of Philosophy in Mechanical Engineering, *Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea*, February 2024 ~ Present   
+### Doctor of Philosophy in Mechanical Engineering, *KAIST, Daejeon, Korea*, September 2023 ~ Present   
 * Advisor: Prof. [Namwoo Kang](https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en)   
   
 ### Master of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2023   
