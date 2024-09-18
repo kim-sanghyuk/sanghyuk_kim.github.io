@@ -20,7 +20,7 @@ published: true
 ***
    
 # 🗣️ Korean Conference Papers
-1. **Kim S**, Seo M, Kang N* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. *<u>KSME CAE & Applied Mechanics Division 2024 Spring Conference</u>*, May 1–4, 2022, Jeju, Korea.
+1. **Kim S**, Seo M, Kang N* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. *<u>KSME CAE & Applied Mechanics Division 2024 Spring Conference</u>*, May 1–4, 2024, Jeju, Korea.
 
 2. **Kim S**, Lee TH* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. *<u>2023 KSCM Conference on Computational Mechanics</u>*, June 29–July 1, 2023, Gangwon, Korea 
 
