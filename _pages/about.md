@@ -17,7 +17,11 @@ published: true
    
 ***
 
-# Education   
+# Education
+### Doctor of Philosophy in Mechanical Engineering, *Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea*, February 2024 ~ Present   
+* Advisor: Prof. [Namwoo Kang](https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en)   
+* Ph.D. Student in the Department of Mechanical Engineering, KAIST, Daejeon, Korea
+  
 ### Master of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2023   
 * Thesis: Projected Variable Three-Term Conjugate Gradient Algorithm for Enhancing Generalization Performance in Artificial Neural Network Training   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
