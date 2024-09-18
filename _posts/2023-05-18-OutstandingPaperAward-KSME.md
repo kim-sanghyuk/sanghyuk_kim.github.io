@@ -7,7 +7,7 @@ categories: [awards]
 permalink: /posts/2023-05-18-OutstandingPaperAward-KSME
 ---
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/20230518_KSME.JPG" alt="KSME.JPG" style="width: 48%;">
+  <img src="/images/20230518_KSME.JPG" alt="KSME.JPG" style="width: 45%;">
   <img src="/images/20230518_KSME_award.jpg" alt="KSME_award.JPG" style="width: 35%;">
 </div>
 
