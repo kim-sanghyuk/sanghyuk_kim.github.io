@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Outstanding Paper Award from KSME CAE and Applied Mechanics Division"
+author: "Sanghyuk Kim"
 date: 2023-05-18
 categories: [awards]
 permalink: /posts/2023-05-18-OutstandingPaperAward-KSME
