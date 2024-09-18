@@ -1,7 +1,7 @@
 # Site settings
 title:          Sanghyuk Kim
 description:    "Ph.D. Student at KAIST"
-url:            "https://sanghyuk_kim.github.io/"
+url:            "https://kim-sanghyuk.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Sanghyuk Kim
-  url:          https://sanghyuk_kim.github.io/
+  url:          https://kim-sanghyuk.github.io/
   email:        sanghyukkim@kaist.ac.kr
 # Build settings
 markdown:       kramdown
