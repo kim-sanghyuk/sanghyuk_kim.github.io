@@ -1,18 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Sanghyuk Kim
+description:    "Ph.D. Student at KAIST"
+url:            "https://sanghyuk_kim.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
-
+  name:         Sanghyuk Kim
+  url:          https://sanghyuk_kim.github.io/
+  email:        sanghyukkim@kaist.ac.kr
 # Build settings
 markdown:       kramdown
 include:
