@@ -10,7 +10,7 @@ published: true
 # 👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
    
 ![SanghyukKim](/images/SanghyukKim.jpg){: width="50%" height="50%"}   
-**Sanghyuk Kim** received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2021 and August 2023, respectively. He is a Ph.D. Student in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) at [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. His research interests include design optimization, topology optimization, design for additive manufacturing, data-driven design, and uncertainty-based design optimization.
+**Sanghyuk Kim** received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2021 and August 2023, respectively. He is a Ph.D. Student in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) from [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. His research interests include spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms.
    
 ### 📧 E-mail   
 [sanghyukkim@kaist.ac.kr](mailto:sanghyukkim@kaist.ac.kr)   
