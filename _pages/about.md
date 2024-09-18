@@ -7,7 +7,7 @@ published: true
 
 ---
    
-# 👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
+## 👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
    
 ![SanghyukKim](/images/SanghyukKim.jpg){: width="50%" height="50%"}   
 **Sanghyuk Kim** received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University (HYU)](https://www.hanyang.ac.kr/) in Seoul, Korea, in February 2021 and August 2023, respectively. He is a Ph.D. Student in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) from [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. His research interests include spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms.
@@ -17,7 +17,7 @@ published: true
    
 ***
 
-# Education
+## Education
 ### Doctor of Philosophy in Mechanical Engineering, *KAIST, Daejeon, Korea*, September 2023 ~ Present   
 * Advisor: Prof. [Namwoo Kang](https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en)   
   
@@ -32,7 +32,7 @@ published: true
    
 ***
 
-# 🏆 Honors & Awards   
+## 🏆 Honors & Awards   
 **Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023   
    
 ***Cum Laude***, *Hanyang University, Seoul, Korea*, February 2021   
