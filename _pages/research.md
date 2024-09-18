@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publications"
+title: "Research"
 author: "Sanghyuk Kim"
 permalink: /research/
 ---
