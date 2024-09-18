@@ -26,6 +26,7 @@ published: true
 ### Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2021   
 * *Cum Laude* (GPA: 3.94/4.50)   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
+
 ***
 
 # 🏆 Honors & Awards   
