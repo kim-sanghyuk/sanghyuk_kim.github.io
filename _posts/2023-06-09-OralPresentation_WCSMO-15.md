@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oral Presentation at WCSMO-15 in Cork, Ireland"
-author: "Hansu Kim"
+author: "Sanghyuk Kim"
 date: 2023-06-09
 permalink: /posts/2023-06-09-OralPresentation_WCSMO-15
 ---
